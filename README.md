@@ -1,6 +1,8 @@
 # SuperMarketStorage
 Ever dreamed of having easier control between your storage and ordering products? Now you can.
 
+LICENZA MASSIMA DISPONIBILE ATTUALMENTE: 6
+
 Quando apri l'applicazione avrai in alto a sinistra il menu a tendina, apribile anche scorrendo dal bordo di sinistra verso destra, in cui avrai la possibilità di resettare tutte le cose segnate e in basso avrai le varie sezioni usabili.
 -Shelf: Ti permette di segnare le quantità dei prodotti che si trovano solamente sugli scaffali.
 -Fridge: Ti permette di segnare le quantità dei prodotti che si trovano solamente nei frigo.
