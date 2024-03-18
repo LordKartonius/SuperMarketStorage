@@ -1,7 +1,5 @@
 Ever dreamed of having easier control between your storage and ordering products? Now you can.
 
-MAXIMUM LICENSE CURRENTLY AVAILABLE: 7
-
 When you open the application you will have the drop-down menu at the top left, which can also be opened by swiping from the left edge to the right, where you will have the possibility to reset all the things marked and at the bottom you will have the various usable sections. -Shelf: Allows you to mark the quantities of products that are only on the shelves. -Fridge: Allows you to mark the quantities of products that are only found in the fridge. -Freezer: Allows you to mark the quantities of products that are only found in the freezers. -Crate: Allows you to mark the quantities of products found only in the crates.
 
 These 4 pages have the possibility to filter the product search by clicking on the lens at the top right with: -Search: Writing the name or brand of the product will show you only the products that match your search. -Category:
@@ -17,8 +15,6 @@ Furthermore, there is the Licenses section which is used to show only the produc
 Finally, on the home page, i.e. the one where all the products marked to be purchased will be present, it will be possible to distinguish the product display from the writing at the beginning of each category for both columns. Furthermore, there is the possibility of eliminating the quantity to purchase of the product you want by simply double tapping on the product image. This will not be deleted until you press the Reset button or select new products in the same category as the deleted product so that you can keep track of what you needed to purchase if you pressed it by mistake, even if the quantity is no longer available. .
 
 If you have additional clarifications, feedback or would like help completing this application please contact me on Telegram: @Mr_LordKratos
-
-LICENZA MASSIMA DISPONIBILE ATTUALMENTE: 7
 
 Quando apri l'applicazione avrai in alto a sinistra il menu a tendina, apribile anche scorrendo dal bordo di sinistra verso destra, in cui avrai la possibilità di resettare tutte le cose segnate e in basso avrai le varie sezioni usabili. -Shelf: Ti permette di segnare le quantità dei prodotti che si trovano solamente sugli scaffali. -Fridge: Ti permette di segnare le quantità dei prodotti che si trovano solamente nei frigo. -Freezer: Ti permette di segnare le quantità dei prodotti che si trovano solamente nei freezer. -Crate: Ti permette di segnare le quantità dei prodotti che si trovano solamente nei crate.
 
